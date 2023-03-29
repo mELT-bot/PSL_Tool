@@ -1,2 +1,2 @@
-output/*
+testdata/output/*
 *.local.md
